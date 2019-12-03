@@ -1,5 +1,5 @@
-# MLP for Function Estimation
- Multi-Layer Perceptron for Function Estimation with Various Parameters
+# MLP for Function Approximation
+ Multi-Layer Perceptron for Function Approximation with Various Parameters
 
 The dataset "slice_localization_data.csv" used can be accessed here:
 https://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axis
