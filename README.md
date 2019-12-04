@@ -13,7 +13,7 @@ There are a number of parameters and options that can be decided on by the user 
  - Different activation functions (Tanh, Sigmoid)
  - Initial weight selection method (Uniform, Nguyen-Widrow)
  - Using Batch Mode in training the neural network (and batch number)
- - Using Momentom in training the neural network (and the mu value)
+ - Using Momentum in training the neural network (and the mu value)
  - Learning rate
  - The division ratios for splitting the data into training, validation, and test sets
  - The stopping condition for training (reaching maximum number of epochs, reaching threshold error rate)
